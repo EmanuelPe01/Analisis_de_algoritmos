@@ -1,3 +1,9 @@
+/*
+    Implementacion del algoritmo Fibonacci
+    Fecha: 23 de mayo de 2021
+    Autor: Pablo Emanuel Mejia Romo
+    Version: 1.2
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #define Max 100
