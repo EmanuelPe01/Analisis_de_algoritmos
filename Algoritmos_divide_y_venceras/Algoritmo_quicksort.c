@@ -1,7 +1,7 @@
 /*
     Implementación del algoritmo de ordenamiento por Quicksort 
     Fecha: 28 de abril de 2021
-    Autor: María Guadalupe Bastida Gonzáñez
+    Autor: María Guadalupe Bastida González y Pablo Emanuel Mejia Romo
     Versión: 1.0
 */
 #include<stdio.h>
