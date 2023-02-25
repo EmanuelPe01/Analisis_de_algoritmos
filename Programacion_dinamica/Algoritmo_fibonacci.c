@@ -1,11 +1,3 @@
-/*
-    Implementacion de Fibonacci(Top-down y Bottom-up) pidiendo datos al usuario
-    Fecha: 23/12/2017
-    Autor: Brianbok
-    Version: 5.0
-
-    Nota: Fue programado en lenguae C++, se adaptó a lenguaje C
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #define Max 100
