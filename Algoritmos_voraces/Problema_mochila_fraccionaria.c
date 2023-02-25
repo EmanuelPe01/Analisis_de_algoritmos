@@ -1,7 +1,7 @@
 /*
     Implementación del algoritmo para resolver el problema de la mochila fraccionaria
     Fecha: 12 de mayo de 2021
-    Autor: María Guadalupe Bastida Gonzáñez
+    Autor: María Guadalupe Bastida González y Pablo Emanuel Mejia Romo
     Versión: 1.0
 */
 #include<stdlib.h>
